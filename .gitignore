@@ -1,0 +1,5 @@
+# 학생 실명·학번이 든 파일(관찰 기록·성적표·생성된 세특)은 올리지 않음 — README_공유.md 참고
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
